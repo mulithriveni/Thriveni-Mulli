@@ -1,11 +1,11 @@
 <h1 align="center">👩‍💻 Thriveni Muli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Python+%7C+SQL+%7C+JavaScript;Building+Real+World+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst+Enthusiast;Python+%7C+SQL+%7C+JavaScript+%7C+Power+BI;Building+Web+Apps+and+Data+Insights" />
 </p>
 
 <p align="center">
-  <b>🚀 Full Stack Developer | CSE (Data Science) Student | Tech Enthusiast</b>
+  <b>🚀 Full Stack Developer | 📊 Aspiring Data Analyst | CSE (Data Science) Student</b>
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mulithriveni&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
-  <img src="https://img.shields.io/badge/Learning-MERN%20Stack-green" />
-  <img src="https://img.shields.io/badge/Goal-Software%20Engineer-orange" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Learning-MERN%20%7C%20Power%20BI-green" />
+  <img src="https://img.shields.io/badge/Goal-Software%20Engineer%20%2F%20Data%20Analyst-orange" />
 </p>
 
 ---
@@ -24,56 +24,53 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (Data Science) Student  
 - 📍 Kadapa, Andhra Pradesh  
-- 💻 Passionate about **Full Stack Web Development**  
+- 💻 Interested in Full Stack Web Development & Data Analytics  
 - 🌐 Learning MERN Stack (MongoDB, Express, React, Node.js)  
-- 🐍 Basic knowledge in Python & SQL  
-- 🎯 Goal: Become a **Full Stack Software Engineer**  
-- 🔥 Love building real-world web applications  
+- 📊 Learning Python, SQL & Power BI for Data Analysis  
+- 🎯 Goal: Software Engineer / Data Analyst  
+- 🔥 Passionate about building apps and working with data  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-- HTML  
-- CSS  
-- JavaScript  
+### 🌐 Full Stack Development
+- HTML, CSS, JavaScript  
 - React (Learning)  
-
-### ⚙️ Backend
-- Node.js (Learning)  
-- Express.js (Learning)  
-
-### 🗄️ Database
+- Node.js, Express.js (Learning)  
 - MongoDB (Learning)  
-- SQL Basics  
 
-### 🧰 Tools
+### 📊 Data Analytics
+- Python (Pandas, NumPy - Learning)  
+- SQL  
+- Power BI  
+- Excel  
+
+### ⚙️ Tools
 - Git & GitHub  
 - VS Code  
 
 ---
 
-## 📂 Featured Projects (Full Stack Focus)
+## 📂 Featured Projects
 
-### 🌐 1. Personal Portfolio Website
-- Built responsive portfolio using HTML, CSS, JavaScript  
-- Showcased skills, resume, and contact info  
-- Mobile-friendly UI design  
-
----
-
-### 🧾 2. To-Do List App
-- Built using JavaScript  
-- Add / delete / update tasks  
-- Local storage functionality  
+### 🌐 Web Development Projects
+- Personal Portfolio Website  
+- To-Do List App  
+- Login & Form Validation UI  
 
 ---
 
-### 🐍 3. Mini Projects
-- Calculator app  
-- Simple login page  
-- Form validation system  
+### 📊 Data Analytics Projects
+- Sales Dashboard (Power BI)  
+- Student Performance Analysis (Python)  
+- SQL Query Practice Projects  
+
+---
+
+### 🔥 Mini Projects
+- Calculator App  
+- Basic JavaScript Projects  
 
 ---
 
@@ -113,5 +110,5 @@
 ## ⭐ Final Quote
 
 <p align="center">
-  ⭐ Code. Build. Learn. Repeat. ⭐
+  ⭐ Code. Build. Analyze. Grow. ⭐
 </p>
