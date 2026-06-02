@@ -1,63 +1,70 @@
-# Hi 👋, I'm Thriveni Muli
 
-🎓 B.Tech Computer Science (Data Science) Student  
-🏫 Chaitanya Bharathi Institute of Technology, Proddatur  
-📍 Kadapa, Andhra Pradesh, India  
-💼 Aspiring Data Analyst | Full Stack Developer  
+<h1 align="center">Hi 👋, I'm Thriveni Muli</h1>
+
+<h3 align="center">Aspiring Data Analyst | Full Stack Developer | CSE (Data Science) Student</h3>
 
 ---
 
-## 👨‍💻 Professional Summary
-Motivated Computer Science student specializing in Data Science and Full Stack Development.  
-Strong interest in building real-world web applications and working with data-driven insights.  
-Skilled in Python, SQL, and frontend technologies with hands-on project experience.  
-Actively seeking internship opportunities to grow in software development and analytics.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### 💻 Programming Languages
+- 🎓 B.Tech CSE (Data Science) Student  
+- 📍 Kadapa, Andhra Pradesh  
+- 💡 Interested in Data Analytics & Web Development  
+- 🌐 Passionate about building real-world applications  
+- 🚀 Currently improving skills for internships & placements  
+- 🎯 Goal: Become a Data Analyst / Full Stack Developer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-### 🌐 Full Stack Development (FSD)
+### 🌐 Full Stack Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📊 Data & Analytics Tools
+### 📊 Data Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-🚀 **Sales Data Dashboard (Power BI)**  
+📊 **Sales Dashboard (Power BI)**  
 - Interactive dashboard for business insights  
-- KPI tracking and data visualization  
+- KPI tracking & visualization  
 
-🌐 **Personal Portfolio Website (FSD Project)**  
+🌐 **Portfolio Website (FSD Project)**  
 - Built using HTML, CSS, JavaScript  
-- Responsive design for all devices  
+- Fully responsive design  
 
-📊 **Data Analysis Project (Python + Pandas)**  
-- Data cleaning and visualization  
-- Generated insights using charts  
+📈 **Data Analysis Project**  
+- Data cleaning & visualization using Python  
+- Insights using charts & graphs  
 
 ---
 
@@ -65,11 +72,6 @@ Actively seeking internship opportunities to grow in software development and an
 - Python Programming Basics  
 - SQL Fundamentals  
 - Power BI Beginner Level  
-
----
-
-## 🎯 Career Objective
-To secure an internship in Software Development or Data Analytics where I can apply my skills in Full Stack Development, Python, and Data Visualization while continuously learning and improving.
 
 ---
 
@@ -82,11 +84,28 @@ To secure an internship in Software Development or Data Analytics where I can ap
 
 ---
 
-## 📫 Contact Me
-📧 Email: mulithriveni@gmail.com  
-🔗 LinkedIn: linkedin.com/in/thriveni-muli-7b0a3a32b  
-💻 GitHub: github.com/mulithriveni  
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mulithriveni&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-⭐ *“Building skills today for a better tomorrow.”* ⭐
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:mulithriveni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/thriveni-muli-7b0a3a32b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mulithriveni">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ "Building Skills Today for a Better Tomorrow" ⭐</h3>
