@@ -1,136 +1,68 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Thriveni+Mulli;Data+Analytics+Student;Frontend+Developer;Full+Stack+Learner;Aspiring+Data+Analyst" />
-</h1>
+# Hi 👋, I'm Thriveni Muli
 
-<h3 align="center">
- 🎓 Final Year B.Tech Student | CSE (Data Science)
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mulithriveni&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
+🎓 B.Tech CSE (Data Science) Student  
+🏫 Chaitanya Bharathi Institute of Technology, Proddatur  
+📍 Kadapa, Andhra Pradesh, India  
+💼 Aspiring Data Analyst | Data Science Enthusiast  
 
 ---
 
-# 🚀 About Me
-
-✨ Final Year B.Tech Student at Chaitanya Bharathi Institute of Technology, Proddatur  
-💻 Passionate about Frontend Development, Data Analytics & Full Stack Development  
-📊 Skilled in Power BI, Python, SQL & Web Technologies  
-🌱 Currently learning Machine Learning & Advanced Full Stack Development  
-
----
-
-# 🛠️ Skills & Technologies
-
-<h3>💻 Frontend Development</h3>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-</p>
+## 🌟 About Me
+- 💡 Passionate about Data Science, AI & Analytics  
+- 🐍 Strong interest in Python & Data Visualization  
+- 📊 Love working with real-world datasets  
+- 🚀 Currently improving skills for internships & placements  
+- 🎯 Goal: To become a successful Data Scientist / Analyst  
 
 ---
 
-<h3>📊 Data Analytics</h3>
+## 🛠️ Technical Skills
 
-<p align="left">
+**Languages:**  
+Python, C Basics, SQL  
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+**Data Tools:**  
+Power BI, Excel, Pandas (Basic)  
 
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+**Other Tools:**  
+Git, GitHub, VS Code  
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
+**Concepts:**  
+Data Analysis, Data Visualization, Machine Learning Basics  
 
 ---
 
-<h3>⚙️ Tools & Platforms</h3>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
+## 📂 Projects (Sample Section)
+- 📊 Sales Data Analysis using Excel / Power BI  
+- 🧠 Student Performance Analysis using Python  
+- 📈 Basic Dashboard Creation using Power BI  
+*(You can replace with your real projects later)*  
 
 ---
 
-# 📂 Featured Projects
-
-✨ Sales KPI Dashboard  
-✨ Customer Churn Analysis  
-✨ Car Price Prediction  
-✨ Iris Flower Classification  
-✨ Portfolio Website  
+## 📜 Certifications
+- Python Basics  
+- SQL Fundamentals  
+- Power BI Beginner Level  
+*(Add your certificates here later)*  
 
 ---
 
-# 📚 Currently Learning
-
-🔥 Full Stack Development  
-🔥 React JS Projects  
-🔥 Python for Data Analytics  
-🔥 SQL & Database Management  
-🔥 Machine Learning Basics  
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mulithriveni&show_icons=true&theme=radical)
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mulithriveni&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulithriveni&layout=compact&theme=radical"/>
-
-</p>
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulithriveni&layout=compact&theme=radical)
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mulithriveni&theme=radical"/>
-
-</p>
+## 📫 Contact Me
+- 📧 Email: mulithriveni@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/thriveni-muli-7b0a3a32b  
+- 💻 GitHub: github.com/mulithriveni  
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/thriveni-muli-7b0a3a32b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mulithriveni">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
- ✨ "Building Smart Solutions with Code & Data" ✨
-</h3>
+⭐ *"Learning, Building, Growing every day"* ⭐
