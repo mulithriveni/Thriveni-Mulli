@@ -1,11 +1,11 @@
 <h1 align="center">👩‍💻 Thriveni Muli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Learner;Turning+Data+into+Insights;Future+Data+Analytics+Professional" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Python+%7C+SQL+%7C+JavaScript;Building+Real+World+Web+Applications" />
 </p>
 
 <p align="center">
-  <b>📊 Aspiring Data Analyst | Data Science Student | Insight Builder</b>
+  <b>🚀 Full Stack Developer | CSE (Data Science) Student | Tech Enthusiast</b>
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mulithriveni&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
-  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20SQL%20%7C%20Power%20BI-green" />
-  <img src="https://img.shields.io/badge/Goal-Data%20Analyst-orange" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
+  <img src="https://img.shields.io/badge/Learning-MERN%20Stack-green" />
+  <img src="https://img.shields.io/badge/Goal-Software%20Engineer-orange" />
 </p>
 
 ---
@@ -24,52 +24,56 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (Data Science) Student  
 - 📍 Kadapa, Andhra Pradesh  
-- 📊 Strong interest in **Data Analytics & Visualization**  
-- 🐍 Learning Python for Data Analysis  
-- 🗄️ Practicing SQL for data querying  
-- 📈 Building dashboards using Power BI  
-- 🎯 Goal: Become a **Professional Data Analyst**
+- 💻 Passionate about **Full Stack Web Development**  
+- 🌐 Learning MERN Stack (MongoDB, Express, React, Node.js)  
+- 🐍 Basic knowledge in Python & SQL  
+- 🎯 Goal: Become a **Full Stack Software Engineer**  
+- 🔥 Love building real-world web applications  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 📊 Data Analytics Tools
-- Power BI 📊  
-- Excel 📈  
-- SQL 🗄️  
+### 🌐 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React (Learning)  
 
-### 🐍 Programming
-- Python (Pandas, NumPy - Learning)  
-- Basic C Programming  
+### ⚙️ Backend
+- Node.js (Learning)  
+- Express.js (Learning)  
 
-### 🌐 Other Skills
-- HTML, CSS  
+### 🗄️ Database
+- MongoDB (Learning)  
+- SQL Basics  
+
+### 🧰 Tools
 - Git & GitHub  
 - VS Code  
 
 ---
 
-## 📂 Featured Projects (Data Analytics Focus)
+## 📂 Featured Projects (Full Stack Focus)
 
-### 📊 1. Sales Data Analysis Dashboard
-- Cleaned raw sales data using Excel / SQL  
-- Built interactive dashboard using Power BI  
-- Generated insights like revenue trends & top products  
-
----
-
-### 📈 2. Student Performance Analysis
-- Analyzed student marks dataset using Python  
-- Used Pandas for data cleaning & analysis  
-- Visualized performance trends  
+### 🌐 1. Personal Portfolio Website
+- Built responsive portfolio using HTML, CSS, JavaScript  
+- Showcased skills, resume, and contact info  
+- Mobile-friendly UI design  
 
 ---
 
-### 🗄️ 3. SQL Practice Projects
-- Employee database queries  
-- Aggregate functions, joins, filtering  
-- Data extraction practice  
+### 🧾 2. To-Do List App
+- Built using JavaScript  
+- Add / delete / update tasks  
+- Local storage functionality  
+
+---
+
+### 🐍 3. Mini Projects
+- Calculator app  
+- Simple login page  
+- Form validation system  
 
 ---
 
@@ -109,5 +113,5 @@
 ## ⭐ Final Quote
 
 <p align="center">
-  ⭐ Turning Data into Insights | Building My Future in Analytics ⭐
+  ⭐ Code. Build. Learn. Repeat. ⭐
 </p>
