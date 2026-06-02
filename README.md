@@ -1,11 +1,11 @@
 <h1 align="center">👩‍💻 Thriveni Muli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Engineer;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Learner;Turning+Data+into+Insights;Future+Data+Analytics+Professional" />
 </p>
 
 <p align="center">
-  <b>🚀 Data Science Explorer | Full Stack Developer | Aspiring Software Engineer</b>
+  <b>📊 Aspiring Data Analyst | Data Science Student | Insight Builder</b>
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mulithriveni&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-blue" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Learner-green" />
-  <img src="https://img.shields.io/badge/Status-Student-orange" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20SQL%20%7C%20Power%20BI-green" />
+  <img src="https://img.shields.io/badge/Goal-Data%20Analyst-orange" />
 </p>
 
 ---
@@ -24,53 +24,52 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (Data Science) Student  
 - 📍 Kadapa, Andhra Pradesh  
-- 💡 Passionate about Data Analytics & Web Development  
-- 🚀 Learning Full Stack Development & Data Science  
-- 🎯 Goal: Internship + Placement in IT Industry  
-- 🔥 Building real-world impactful projects  
+- 📊 Strong interest in **Data Analytics & Visualization**  
+- 🐍 Learning Python for Data Analysis  
+- 🗄️ Practicing SQL for data querying  
+- 📈 Building dashboards using Power BI  
+- 🎯 Goal: Become a **Professional Data Analyst**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 💻 Programming
-- Python 🐍  
-- SQL 🗄️  
-- C Basics  
-
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript  
-
-### 📊 Data & Tools
+### 📊 Data Analytics Tools
 - Power BI 📊  
 - Excel 📈  
-- Git & GitHub ⚙️  
-- VS Code 💻  
+- SQL 🗄️  
+
+### 🐍 Programming
+- Python (Pandas, NumPy - Learning)  
+- Basic C Programming  
+
+### 🌐 Other Skills
+- HTML, CSS  
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (Data Analytics Focus)
 
-### 📊 1. Data Analysis Dashboard
-- Built interactive dashboards using **Power BI**
-- Cleaned and analyzed datasets using **Excel & SQL**
-- Visualized business insights for decision making
-
----
-
-### 🌐 2. Personal Portfolio Website
-- Created responsive website using **HTML, CSS, JavaScript**
-- Showcased skills, resume, and contact details
-- Mobile-friendly design
+### 📊 1. Sales Data Analysis Dashboard
+- Cleaned raw sales data using Excel / SQL  
+- Built interactive dashboard using Power BI  
+- Generated insights like revenue trends & top products  
 
 ---
 
-### 🐍 3. Python Mini Projects
-- Calculator app  
-- Student management system  
-- Basic data processing scripts  
+### 📈 2. Student Performance Analysis
+- Analyzed student marks dataset using Python  
+- Used Pandas for data cleaning & analysis  
+- Visualized performance trends  
+
+---
+
+### 🗄️ 3. SQL Practice Projects
+- Employee database queries  
+- Aggregate functions, joins, filtering  
+- Data extraction practice  
 
 ---
 
@@ -110,5 +109,5 @@
 ## ⭐ Final Quote
 
 <p align="center">
-  ⭐ Think. Code. Solve. Grow. ⭐
+  ⭐ Turning Data into Insights | Building My Future in Analytics ⭐
 </p>
